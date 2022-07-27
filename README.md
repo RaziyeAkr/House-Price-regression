@@ -1,5 +1,6 @@
 **House-Price-regression**<br>
-Designing machine learning to estimate house prices using real data using regression algorithms.
+Designing machine learning to estimate house prices using real data using regression algorithms.<br>
+<br>
 **ABOUT DATASET**<br>
 **----------------------------------------------------------------------**<br>
 This site data is taken from the KAGGLE site. The information is related to several thousand houses in Tehran.
