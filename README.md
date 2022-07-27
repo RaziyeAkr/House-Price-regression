@@ -6,5 +6,5 @@ This site data is taken from the KAGGLE site. The information is related to seve
 The information in this dataset is as follows:<br>
 Area, Room, Parking,	Warehouse,	Elevator,	Address,	Price,	Price(USD)<br>
 **Algorithms used**<br>
-**------------------------------------------------------------------------**<br>
+**-----------------------------------------------------------------------**<br>
 Multiple linear regression algorithm<br>
